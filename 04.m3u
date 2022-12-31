@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Россия 24 HD" group-title="Новости", Россия 24 HD
+#EXTGRP:Новости
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-name="РТР Россия" group-title="Новости", РТР Россия
+#EXTGRP:Новости
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Вместе РФ HD" group-title="Новости", Вместе РФ HD
+#EXTGRP:Новости
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Новости", Россия 1 HD
+#EXTGRP:Новости
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 tvg-name="Киносемья FHD" group-title="Кино", Киносемья FHD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера FHD" group-title="Кино", Кинопремьера FHD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Наша Сибирь 4K
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/nashasibir4k
+#EXTINF:-1,Хабар 24
+#EXTGRP:Другие
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1,31 канал
+#EXTGRP:Другие
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1,Astana TV
+#EXTGRP:Другие
+https://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1,Atameken Business TV
+#EXTGRP:Другие
+https://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1,Ел Арна
+#EXTGRP:Другие
+https://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1,КТК
+#EXTGRP:Другие
+https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1,СТВ Казахстан
+#EXTGRP:Другие
+https://sc.id-tv.kz/STV.m3u8
